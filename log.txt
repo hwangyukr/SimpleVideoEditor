@@ -1,0 +1,21 @@
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "run.py", line 19, in <module>
+    run()
+  File "run.py", line 10, in run
+    a = 3/0
+ZeroDivisionError: division by zero
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "run.py", line 19, in <module>
+    run()
+  File "run.py", line 10, in run
+    a = 3/0
+ZeroDivisionError: division by zero
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "run.py", line 19, in <module>
+    run()
+  File "run.py", line 10, in run
+    a = 3/0
+ZeroDivisionError: division by zero
